@@ -1,0 +1,21 @@
+{
+  "name": "godot-learning-app-exporter",
+  "version": "0.0.1",
+  "description": "Exports Godot projects for usage in the GDQuest learning app",
+  "main": "godot-learning-app-exporter.js",
+  "scripts": {
+    "start": "node godot-learning-app-exporter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GDQuest <nathan@gdquest.com>",
+  "license": "MIT",
+  "bin": "./godot-learning-app-exporter.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDQuest/godot-learning-app-exporter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GDQuest/godot-learning-app-exporter/issues"
+  },
+  "homepage": "https://github.com/GDQuest/godot-learning-app-exporter#readme"
+}
